@@ -12,7 +12,7 @@ sites:
       - dinushchathurya
 
 status-website:
-  baseUrl: /upptime
+  baseUrl: /furry-fiesta
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Codingtricks
   introTitle: "Uptime monitor for Codebird services"
