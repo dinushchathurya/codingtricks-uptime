@@ -1,4 +1,3 @@
-
 <!-- prettier-ignore -->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
