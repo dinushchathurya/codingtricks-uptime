@@ -10,7 +10,8 @@ sites:
       - 200
     assignees:
       - dinushchathurya
-   - name: Codingtricks
+      
+   - name: Packagist
      url: https://packagist.org/packages/dinushchathurya/srilankan-divisional-secretariats
      expectedStatusCodes:
       - 301
