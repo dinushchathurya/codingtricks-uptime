@@ -1,6 +1,5 @@
-# Change these first
-owner: dinushchathurya # Your GitHub organization or username, where this repository lives
-repo: furry-fiesta # The name of this repository
+owner: dinushchathurya 
+repo: codingtricks-uptime 
 
 sites:
   - name: Codingtricks
@@ -10,21 +9,13 @@ sites:
       - 200
     assignees:
       - dinushchathurya
-      
-   - name: Packagist
-     url: https://packagist.org/packages/dinushchathurya/srilankan-divisional-secretariats
-     expectedStatusCodes:
-      - 301
-      - 200
-    assignees:
-      - dinushchathurya
 
 status-website:
-  baseUrl: /furry-fiesta
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  baseUrl: /codingtricks-uptime
+  logoUrl: https://avatars.githubusercontent.com/u/68215031?s=200&v=4
   name: Codingtricks
   introTitle: "Uptime monitor for Codebird services"
-  #introMessage: 
+ 
   navbar:
     - title: Status
       href: /
