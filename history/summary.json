@@ -1,20 +1,20 @@
 [
   {
-    "name": "Quotify",
+    "name": "Codingtricks",
     "url": "https://codingtricks.io",
     "icon": "https://favicons.githubusercontent.com/codingtricks.io",
-    "slug": "quotify",
+    "slug": "codingtricks",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 368,
-    "timeWeek": 368,
-    "timeMonth": 368,
-    "timeYear": 368,
+    "time": 351,
+    "timeDay": 351,
+    "timeWeek": 351,
+    "timeMonth": 351,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   }
 ]
