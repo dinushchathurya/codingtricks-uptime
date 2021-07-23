@@ -1,20 +1,20 @@
 [
   {
-    "name": "Codingtricks",
+    "name": "codingtricks.io",
     "url": "https://codingtricks.io",
     "icon": "https://favicons.githubusercontent.com/codingtricks.io",
-    "slug": "codingtricks",
+    "slug": "codingtricks-io",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 357,
-    "timeWeek": 357,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "time": 400,
+    "timeDay": 400,
+    "timeWeek": 400,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {}
   }
 ]
