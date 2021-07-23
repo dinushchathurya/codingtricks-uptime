@@ -10,6 +10,13 @@ sites:
       - 200
     assignees:
       - dinushchathurya
+   - name: Codingtricks
+     url: https://packagist.org/packages/dinushchathurya/srilankan-divisional-secretariats
+     expectedStatusCodes:
+      - 301
+      - 200
+    assignees:
+      - dinushchathurya
 
 status-website:
   baseUrl: /furry-fiesta
