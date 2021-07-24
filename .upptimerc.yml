@@ -14,8 +14,8 @@ status-website:
   theme: dark
   baseUrl: /codingtricks-uptime
   logoUrl: https://avatars.githubusercontent.com/u/68215031?s=200&v=4
-  name: Codingtricks
-  introTitle: "Uptime monitor for codingtrick.io"
+  name: codingtricks.io
+  introTitle: "Uptime monitor for codingtricks.io"
  
   navbar:
     - title: Status
