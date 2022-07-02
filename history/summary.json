@@ -6,9 +6,9 @@
     "slug": "codingtricks-io",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 353,
     "timeDay": 224,
@@ -16,7 +16,6 @@
     "timeMonth": 285,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2022-07-01": 8,
       "2022-06-30": 61,
       "2022-06-21": 42
     }
