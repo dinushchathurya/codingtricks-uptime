@@ -4,19 +4,19 @@
     "url": "https://codingtricks.io",
     "icon": "https://icons.duckduckgo.com/ip3/codingtricks.io.ico",
     "slug": "codingtricks-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "93.90%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "92.25%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
     "time": 528,
-    "timeDay": 2236,
-    "timeWeek": 1364,
-    "timeMonth": 748,
+    "timeDay": 1988,
+    "timeWeek": 1297,
+    "timeMonth": 742,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2025-11-18": 88
+      "2025-11-18": 112
     }
   }
 ]
